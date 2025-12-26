@@ -110,7 +110,7 @@ login:pass@ip:port
 ```
 
 **Рекомендуемые провайдеры:**
-- [Proxyshard](https://proxyshard.com?ref=coun1er) (резидентские прокси с оплатой за трафик) ([без реф](https://proxyshard.com))
+- [Proxyshard](https://proxyshard.com?ref=coun1er) (резидентские прокси с оплатой за трафик)
 - Другие качественные провайдеры прокси
 
 ### Адреса кошельков
